@@ -1,7 +1,6 @@
 # Olá, eu sou Leonardo 👋
 
 Desenvolvedor Backend .NET em formação, com foco em APIs REST,arquitetura de dados e FastReport.
-Atualmente em transição de Suporte em TI para desenvolvimento backend.
 
 ## 🛠️ Tech Stack
 
