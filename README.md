@@ -17,7 +17,7 @@ Desenvolvedor Backend .NET em formação, com foco em APIs REST,arquitetura de d
 ### Gerador Inteligente de Propostas
 SaaS MVP fullstack para automação de propostas técnicas e comerciais.
 - Backend em C# (.NET 8) com PostgreSQL e autenticação JWT
-- Integração com LLMs (Gemini/Grok) para geração de texto via IA
+- Integração com LLMs (Gemini) para geração de texto via IA
 - Exportação para PDF e Word | Frontend em React
 
 ### Automação de Vídeos com IA
